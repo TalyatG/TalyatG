@@ -11,7 +11,7 @@
 
 -  :telescope:  I’m working as a QA Automation engineer and contributing to test automation frameworks.
 
--  My skills  :computer:  : Selenium, Rest Assured, Playwright
+-  My skills  :computer:  : Selenium, TestNG, JUnit, Rest Assured, Playwright
 
 -  :seedling:  Exploring Machine learning and AI.
 
