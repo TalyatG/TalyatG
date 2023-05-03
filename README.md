@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**TalyatG/TalyatG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  :telescope:  I’m working as a QA Automation engineer and contributing to test automation frameworks.
+
+-  My skills  :computer:  : Selenium, Rest Assured, Playwright
+
+-  :seedling:  Exploring Machine learning and AI.
+
+-  :zap:  In my free time, I learn Python/Pytorch/Tensorflow/Scikit and read tech articles.
+
+-  :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talyatg/)
+</div>
