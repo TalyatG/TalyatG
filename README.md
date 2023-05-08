@@ -14,6 +14,6 @@
 
 -  :seedling:  Exploring Machine learning and AI.
 
--  :zap:  In my free time, I learn Python/Pytorch/Tensorflow/Scikit and read tech articles.
+-  :zap:  In my free time, I learn Python, ML libraries and read tech articles.
 
 -  :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talyatg/)
