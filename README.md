@@ -12,8 +12,8 @@
 
 -  :computer:  Experienced in Selenium, TestNG, JUnit, Rest Assured, Playwright, SQL database testing.
 
--  :seedling:  Exploring Machine learning and AI.
+-  :seedling:  Exploring Machine learning and learning Kotlin, and Cloud infrastructure
 
--  :zap:  In my free time, I learn Python, ML libraries and read tech articles.
+-  :zap: In my free time, I like to ride ATVs in the woods when the weather is good. At home, I mostly read books, like stories/novels and science fiction. I also like to fix and craft things whenever I get the chance.
 
 -  :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talyatg/)
