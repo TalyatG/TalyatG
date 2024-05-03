@@ -12,7 +12,7 @@
 
 -  :computer:  Experienced in Selenium, TestNG, JUnit, Rest Assured, Playwright, SQL database testing.
 
--  :seedling:  Exploring Machine learning and learning Kotlin, and Cloud infrastructure
+-  :seedling:  Exploring Machine learning, learning Kotlin and Cloud infrastructure
 
 -  :zap: In my free time, I like to ride ATVs in the woods when the weather is good. At home, I mostly read books, like stories/novels and science fiction. I also like to fix and craft things whenever I get the chance.
 
